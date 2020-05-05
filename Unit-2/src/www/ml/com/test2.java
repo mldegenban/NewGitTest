@@ -8,5 +8,7 @@ public class test2 {
 		test2 t3 = new test2();
 		System.out.println(t1.x==t2.x);
 		System.out.println(t2.x==t3.x);
+		System.out.println(t1.x==t2.x);
+		System.out.println(t2.x==t3.x);
 	}
 }
