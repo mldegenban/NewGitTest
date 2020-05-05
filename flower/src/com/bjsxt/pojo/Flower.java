@@ -4,6 +4,7 @@ public class Flower {
 	private int id;
 	private String name;
 	private String price;
+	private String price1;
 	private String production;
 	public Flower(int id, String name, String price, String production) {
 		super();
